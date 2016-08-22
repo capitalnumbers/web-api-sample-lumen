@@ -2,3 +2,4 @@
 .env
 bootstrap/local-settings.php
 nbproject/
+node_modules/
